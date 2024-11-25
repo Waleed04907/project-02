@@ -12,7 +12,7 @@ const FeaturedSection = () => {
     },
     {
       id: 2,
-      image: '/Beach-1.jpeg',
+      image: '/beach-1.jpeg',
       title: 'Beachfront Apartment',
       description: 'Cozy apartment right on the beach.',
       link: '/properties/2',
